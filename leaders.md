@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Rodolfo Hernandez Baz](mailto:rodolfo.hernanddesbaz@owasp.org)
+* [Alma Delia Rodriguez Gordillo](mailto:alma.deliarodriguezgordillo@owasp.org)
